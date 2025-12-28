@@ -1,15 +1,10 @@
 body{
-    background-image: url("https://cdn.mos.cms.futurecdn.net/v2/t:0,l:782,cw:2011,ch:2011,q:80,w:2011/uVwrSjfVvkGwk9y6zNJMob.jpg");
-    color: beige;
-    background-size:cover;
-    font-family: "Orbitron", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    margin-top: 50px;
+ color: beige;
+text-align: center;
+    margin: 0;
 }
 h1{
-    
+   
     display: flex;
     justify-content: center;
     font-size: 45px;
@@ -27,6 +22,7 @@ button{
     padding:0px 12px;
     margin-left: 6px;
     text-decoration: underline 6px beige;
+   text-shadow: 0 0 14px rgb(22, 20, 20);
 }
 #logo{
     display: block;
@@ -39,12 +35,17 @@ button{
     display: flex;
     justify-content: center;
 }
-.bt{
+.main{
+    background-image: url("https://cdn.mos.cms.futurecdn.net/v2/t:0,l:782,cw:2011,ch:2011,q:80,w:2011/uVwrSjfVvkGwk9y6zNJMob.jpg");
+   
+    background-size:cover;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding :10px 0 100px 0;
 
-    /*align text to bottom*/
-    display: flex;
-    justify-content: center;
-    height: 200px;
-    
-
+}
+p{
+    color: rgb(24, 26, 25);
 }

@@ -1,7 +1,16 @@
-@font-face {
-    font-family:fontt;
-    src: url(../ClimateCrisis-2019.woff2);
+
+body{
+    background-color: brown;
 }
 h1{
-    font-family: fontt;
+ 
+    text-align: center;
+    margin: 300px 0;
+    font-size: 100px;
+    color: rgb(231, 192, 192);
+    text-shadow: 15px 5px 4px black;
+    font-family: "Orbitron", sans-serif;
+
+
+
 }
