@@ -1,0 +1,50 @@
+body{
+    background-image: url("https://cdn.mos.cms.futurecdn.net/v2/t:0,l:782,cw:2011,ch:2011,q:80,w:2011/uVwrSjfVvkGwk9y6zNJMob.jpg");
+    color: beige;
+    background-size:cover;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 50px;
+}
+h1{
+    
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+}
+button{
+    display: block;
+    margin: 10px ;
+    font-size: larger;
+    border: none;
+    padding:5px 10px;
+    /*font changes*/
+    font-family: inherit;
+}
+.exp{
+    padding:0px 12px;
+    margin-left: 6px;
+    text-decoration: underline 6px beige;
+}
+#logo{
+    display: block;
+    margin:0px auto;
+    width: 250px;
+    border-radius: 20px;
+
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.bt{
+
+    /*align text to bottom*/
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    
+
+}

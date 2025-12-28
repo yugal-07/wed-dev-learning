@@ -1,0 +1,26 @@
+.main{
+    background-color: #2E86AB;
+    width:800px;
+    display: flex;
+    justify-content: center;
+    margin: 200px auto;
+    align-items: center;    
+    border: 3px solid #A23B72;
+    border-bottom: 12px solid #A23B72;
+    padding: 40px;
+    border-radius: 12px;
+    padding-left:100px;
+    padding-right: 100px;
+}
+.text{
+    margin:30px;
+    margin-left: auto;
+    margin-right: auto;
+    width:300px;
+    padding:10px ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.photo{
+    border-radius: 12px;
+   border: 2px solid black;
+}

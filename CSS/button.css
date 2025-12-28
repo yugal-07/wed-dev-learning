@@ -1,0 +1,13 @@
+.following button{
+    background-color: white;
+    display: block;  
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    border: 2px solid rgb(219, 206, 206) ;
+    font-weight:bolder;
+    padding: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+}

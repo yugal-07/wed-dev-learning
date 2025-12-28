@@ -1,0 +1,7 @@
+@font-face {
+    font-family:fontt;
+    src: url(../ClimateCrisis-2019.woff2);
+}
+h1{
+    font-family: fontt;
+}
