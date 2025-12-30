@@ -1,0 +1,30 @@
+body{
+  font-family: "Happy Monkey",system-ui;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+  background-color: #a2d2ff;
+  margin-top: 200px;  
+  color: #ffffff;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+img{ 
+    width:250px;    
+    border-radius: 50%;
+    border:  6px solid #EFB0C9;
+
+}
+h1,h3,p{
+    text-shadow: 0 0 5px black;
+
+}
+h3,p{
+    background: #EFB0C9;
+
+}   
+   
